@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 
+# config files
+*.conf
+
 # C extensions
 *.so
 
